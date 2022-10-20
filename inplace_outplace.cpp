@@ -78,7 +78,7 @@ int main(){
     insertionsort__outplace(arr2,0,n-1);
     cout<<"ARRAY AFTER SORTING USING OUT-PLACE ALGORITHM : ";
     //printing the array
-    pfun(arr,n);
+    pfun(arr2,n);
     cout<<endl;
 
 }
